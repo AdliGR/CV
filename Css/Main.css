@@ -1,0 +1,24 @@
+body{
+    background: rgb(87,188,144);
+background: linear-gradient(144deg, rgba(87,188,144,1) 0%, rgba(119,201,212,1) 53%, rgba(99,203,219,1) 100%);;
+}
+
+hr{
+    border-color: #A5A5Af;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+}
+
+img{
+    height: 100px;
+}
+
+h1{
+    color:  #015249;
+}
+
+h3{
+    color: #015249;
+}
